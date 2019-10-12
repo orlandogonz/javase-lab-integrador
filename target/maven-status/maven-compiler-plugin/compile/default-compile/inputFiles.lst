@@ -1,0 +1,16 @@
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\connectors\Connector.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\repositories\interfaces\I_CursoRepository.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\repositories\interfaces\I_AlumnoRepository.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\validadores\ValidatorAlumno.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\repositories\jdbc\AlumnoRepository.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\utils\html\Boton.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\utils\files\FileText.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\test\TestFile.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\utils\files\I_File.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\entities\Curso.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\enumerados\Turno.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\enumerados\Dia.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\repositories\jdbc\CursoRepository.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\entities\Alumno.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\test\TestRepository.java
+E:\Carlos Rios\Clase13\src\main\java\ar\com\eduit\curso\java\utils\html\Table.java
